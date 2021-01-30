@@ -1,0 +1,82 @@
+@charset "UTF-8";
+@media (max-width:1000px) {
+
+
+ body{
+   text-align: center;
+ }
+
+ div{
+   background-image: url("../imsges/fall.jpg");
+ }
+
+ h1{
+   font-size: 50px;
+ }
+
+ ul{
+   list-style: none;
+ }
+
+ .yamato{
+   color: red;
+   background-color: #fee;
+ }
+
+ .yuta{
+   color: green;
+   background-color: #e1eec1;
+ }
+
+ .yuma{
+   color: blue;
+   background-color: #97cdf3;
+ }
+
+ .amugiri{
+   color: orange;
+   background-color: #ffe0b6;
+ }
+
+ .hyuga{
+   color: purple;
+   background-color: #b7aed6;
+ }
+
+ .bon{
+   background-color: #f7c6bd;
+ }
+
+ .container{
+   display: flex;
+   justify-content: space-around;
+ }
+
+ .a{
+   border-right: 1px dashed #ccc;
+ }
+
+ .item{
+   background: #0bd;
+   color: #fff;
+   margin: 10px;
+   padding: 10px
+ }
+
+ .videos{
+   border-top: 2px dashed #b4c1d1;
+ }
+
+ .b{
+   border-top: 10px groove #ccc;
+ }
+
+ .c{
+   border-bottom: 10px groove #ccc;
+ }
+
+ .d{
+   font-size: 100px;
+   color: #ff006f;
+ }
+}
