@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@media (max-width:835px) {
+@media (max-width:600px) {
 
 
  body{
